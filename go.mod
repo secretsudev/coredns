@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/Azure/azure-sdk-for-go v63.4.0+incompatible
-	github.com/Azure/go-autorest/autorest v0.11.27
+	github.com/Azure/go-autorest/autorest v0.11.28
 	github.com/Azure/go-autorest/autorest/azure/auth v0.5.11
 	github.com/apparentlymart/go-cidr v1.1.0
 	github.com/aws/aws-sdk-go v1.43.45
@@ -24,7 +24,7 @@ require (
 	github.com/prometheus/common v0.34.0
 	go.etcd.io/etcd/api/v3 v3.5.4
 	go.etcd.io/etcd/client/v3 v3.5.4
-	golang.org/x/crypto v0.0.0-20211215153901-e495a2d5b3d3
+	golang.org/x/crypto v0.0.0-20220722155217-630584e8d5aa
 	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad
 	google.golang.org/api v0.75.0
 	google.golang.org/grpc v1.46.0
